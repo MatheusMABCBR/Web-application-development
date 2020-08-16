@@ -1,0 +1,800 @@
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\appsettings.json
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.exe
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.csprojAssemblyReference.cache
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorAssemblyInfo.cache
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorAssemblyInfo.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.AssemblyInfoInputs.cache
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.AssemblyInfo.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.TagHelpers.input.cache
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.TagHelpers.output.cache
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorCoreGenerate.cache
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorTargetAssemblyInfo.cache
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorTargetAssemblyInfo.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\staticwebassets\LanchesMac.StaticWebAssets.Manifest.cache
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\staticwebassets\LanchesMac.StaticWebAssets.xml
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.csproj.CopyComplete
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.deps.json
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.runtimeconfig.json
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.runtimeconfig.dev.json
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.pdb
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.Views.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.Views.pdb
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.Views.pdb
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.pdb
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.genruntimeconfig.cache
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Lanche\List.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LanchesResumo.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\CarrinhoCompra\Index.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CarrinhoCompraResumo\Default.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Contato\Index.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoriaMenu\Default.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Lanche\Details.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Pedido\Checkout.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Pedido\CheckoutCompleto.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoggedIn.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\Index.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.csproj.CoreCompileInputs.cache
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.MvcApplicationPartsAssemblyInfo.cache
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Create.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Delete.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Details.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Edit.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Index.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Create.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Delete.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Details.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Edit.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Index.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccessDenied.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Create.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Delete.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Details.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Edit.cshtml.g.cs
+C:\_asp2020\Projeto_Lanches_3.1\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Index.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.exe
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.deps.json
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.runtimeconfig.json
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.runtimeconfig.dev.json
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.pdb
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.Views.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.Views.pdb
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.csprojAssemblyReference.cache
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.AssemblyInfoInputs.cache
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.AssemblyInfo.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorAssemblyInfo.cache
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorAssemblyInfo.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.TagHelpers.input.cache
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.TagHelpers.output.cache
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorCoreGenerate.cache
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Create.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Delete.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Details.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Edit.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Index.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Create.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Delete.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Details.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Edit.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Index.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Create.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Delete.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Details.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Edit.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Index.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\Index.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoggedIn.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\CarrinhoCompra\Index.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Contato\Index.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccessDenied.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Lanche\Details.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Lanche\List.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Pedido\Checkout.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Pedido\CheckoutCompleto.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CarrinhoCompraResumo\Default.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoriaMenu\Default.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LanchesResumo.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorTargetAssemblyInfo.cache
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorTargetAssemblyInfo.cs
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.Views.pdb
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.csproj.CopyComplete
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\staticwebassets\LanchesMac.StaticWebAssets.Manifest.cache
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\staticwebassets\LanchesMac.StaticWebAssets.xml
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.dll
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.pdb
+C:\Users\Matheus Castro\Downloads\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.genruntimeconfig.cache
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.exe
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.deps.json
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.runtimeconfig.json
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.runtimeconfig.dev.json
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.pdb
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.Views.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.Views.pdb
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.csprojAssemblyReference.cache
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.AssemblyInfoInputs.cache
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.AssemblyInfo.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.csproj.CoreCompileInputs.cache
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.MvcApplicationPartsAssemblyInfo.cache
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorAssemblyInfo.cache
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorAssemblyInfo.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.TagHelpers.input.cache
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.TagHelpers.output.cache
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorCoreGenerate.cache
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Create.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Delete.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Details.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Edit.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Index.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Create.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Delete.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Details.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Edit.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Index.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Create.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Delete.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Details.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Edit.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Index.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\Index.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoggedIn.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\CarrinhoCompra\Index.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Contato\Index.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccessDenied.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Lanche\Details.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Lanche\List.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Pedido\Checkout.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Pedido\CheckoutCompleto.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CarrinhoCompraResumo\Default.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoriaMenu\Default.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LanchesResumo.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorTargetAssemblyInfo.cache
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorTargetAssemblyInfo.cs
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.Views.pdb
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.csproj.CopyComplete
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\staticwebassets\LanchesMac.StaticWebAssets.Manifest.cache
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\staticwebassets\LanchesMac.StaticWebAssets.xml
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.dll
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.pdb
+G:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.genruntimeconfig.cache
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\appsettings.Development.json
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\appsettings.json
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.exe
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.deps.json
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.runtimeconfig.json
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.runtimeconfig.dev.json
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.pdb
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.Views.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\LanchesMac.Views.pdb
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.csprojAssemblyReference.cache
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.AssemblyInfoInputs.cache
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.AssemblyInfo.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.csproj.CoreCompileInputs.cache
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.MvcApplicationPartsAssemblyInfo.cache
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorAssemblyInfo.cache
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorAssemblyInfo.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.TagHelpers.input.cache
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.TagHelpers.output.cache
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorCoreGenerate.cache
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Create.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Delete.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Details.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Edit.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminCategorias\Index.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Create.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Delete.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Details.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Edit.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminLanches\Index.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Create.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Delete.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Details.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Edit.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\AdminPedidos\Index.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Admin\Index.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoggedIn.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\CarrinhoCompra\Index.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Contato\Index.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccessDenied.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Lanche\Details.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Lanche\List.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Pedido\Checkout.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Pedido\CheckoutCompleto.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CarrinhoCompraResumo\Default.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoriaMenu\Default.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LanchesResumo.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorTargetAssemblyInfo.cache
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.RazorTargetAssemblyInfo.cs
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.Views.pdb
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.csproj.CopyComplete
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\staticwebassets\LanchesMac.StaticWebAssets.Manifest.cache
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\staticwebassets\LanchesMac.StaticWebAssets.xml
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.dll
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.pdb
+A:\Aplicações Web\C#\LanchesMac\LanchesMac\obj\Debug\netcoreapp3.1\LanchesMac.genruntimeconfig.cache
